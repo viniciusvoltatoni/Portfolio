@@ -1,0 +1,23 @@
+.conteudo {
+    position: absolute;
+    width: 880px;
+    height: 60px;
+
+    /* Text xl/Normal */
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* or 150% */
+
+    text-align: center;
+    margin-top: 230px;
+    margin-left: 250px;
+
+    /* Gray/500 */
+
+    color: var(--text-color)
+
+}

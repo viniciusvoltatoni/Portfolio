@@ -1,0 +1,12 @@
+.menu__lista {
+    display: flex;
+    color: var(--text-color);
+    gap: 40px; 
+    margin: auto;
+}
+
+section {
+    display: flex;
+    margin: auto;
+}
+

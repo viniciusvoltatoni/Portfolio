@@ -1,0 +1,29 @@
+.caixa-logo {
+    align-items: center;
+    display: flex;
+    margin-inline-end: auto;
+    margin-left: 135px;
+    margin-top: 10px;
+    width: 140px;
+}
+
+.caixa-logo p {
+    padding-left: 20px;
+}
+
+.logo {
+    height: 26.99px;
+    width: 27px;
+}
+
+.nome__logo {
+    color: #3A404E;
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    height: 24px;
+    line-height: 24px;
+    width: 113px;
+}

@@ -1,0 +1,16 @@
+.caixa {
+    align-items: center;
+    display: flex;
+    height: 40px;
+    justify-content: center;
+    margin: 18px 0 18px 0;
+    position: relative;
+    width: 1325px;
+}
+
+nav li {
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 0 0 15px;
+    position: relative;
+}

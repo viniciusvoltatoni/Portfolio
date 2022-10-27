@@ -1,0 +1,19 @@
+.subtitulo {
+    width: 80px;
+    height: 24px;
+    position: relative;
+
+/* Text md/Semibold */
+    display: flex;
+    margin: auto;
+    margin-top: 90px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    /* identical to box height, or 150% */
+
+    color: var(--main-color);
+}

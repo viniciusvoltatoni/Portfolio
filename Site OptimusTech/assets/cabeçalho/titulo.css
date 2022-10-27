@@ -1,0 +1,25 @@
+.titulo {
+    width: 625px;
+    height: 60px;
+    position: absolute;
+
+    /* Display lg/Semibold */
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+    /* identical to box height, or 125% */
+
+    letter-spacing: -0.02em;
+
+    /* Gray/900 */
+
+    color: #101828;
+
+    margin-left: 27.5%;
+    top: 30%;
+    align-items: center;
+    padding-top: 25px;
+}
