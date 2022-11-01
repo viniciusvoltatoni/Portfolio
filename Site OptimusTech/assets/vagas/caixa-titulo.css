@@ -1,0 +1,22 @@
+.caixa-titulo {
+    position: absolute;
+    width: 768px;
+    height: 44px;
+
+    /* Display md/Semibold */
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    /* identical to box height, or 122% */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    /* Gray/900 */
+
+    color: #101828;
+    margin-top: 3.5rem;
+}

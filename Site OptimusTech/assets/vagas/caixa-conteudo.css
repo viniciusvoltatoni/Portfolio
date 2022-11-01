@@ -1,0 +1,20 @@
+.caixa-conteudo {
+    width: 768px;
+    height: 30px;
+
+    /* Text xl/Normal */
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+
+    /* Gray/500 */
+
+    margin-top: 3.125rem;
+    color: #667085;
+}
