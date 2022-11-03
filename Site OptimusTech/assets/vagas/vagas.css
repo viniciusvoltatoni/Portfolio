@@ -12,3 +12,111 @@
 
     background: #FFFFFF;
 }
+
+.vaga {
+    width: 1280px;
+    height: 940px;
+}
+
+.vaga-area {
+    margin: 0 auto;
+    margin-bottom: 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+
+    width: 768px;
+    height: 358px;
+}
+
+.vaga-area__titulo  {
+    width: 768px;
+    height: 30px;
+
+    /* Text xl/Medium */
+
+    font-family: 'Montserrat',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+
+
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+
+    /* Gray/900 */
+
+    color: #101828;
+}
+
+.vaga-area__item {
+    box-sizing: border-box;
+
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    padding: 24px 24px 28px;
+    gap: 24px;
+
+    width: 768px;
+    height: 136px;
+
+    /* Base/White */
+
+    background: #FFFFFF;
+    /* Gray/200 */
+
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+
+}
+
+.vaga-area__item h1 {
+    width: 720px;
+    height: 28px;
+
+
+
+    /* Text lg/Medium */
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    /* identical to box height, or 156% */
+
+
+    /* Gray/900 */
+
+    color: #101828;
+}
+
+.vaga-informacoes {
+    
+    display: flex;
+    flex-direction: row;
+    
+    padding: 0px;
+    gap: 24px;
+
+    width: 720px;
+    height: 24px;
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: var(--text-color);
+}
