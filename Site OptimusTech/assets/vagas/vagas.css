@@ -6,7 +6,7 @@
     gap: 64px;
 
     width: 1310px;
-    height: 1798px;
+    height: 1650px;
 
     /* Base/White */
 
@@ -15,12 +15,12 @@
 
 .vaga {
     width: 1280px;
-    height: 940px;
+    height: 1000px;
 }
 
 .vaga-area {
     margin: 0 auto;
-    margin-bottom: 64px;
+    margin-top: 4rem;
     display: flex;
     flex-direction: column;
     align-items: flex-start;

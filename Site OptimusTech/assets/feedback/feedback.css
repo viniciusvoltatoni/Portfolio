@@ -1,0 +1,127 @@
+.feedback {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px 96px;
+
+    width: 1310px;
+    height: 500px;
+}
+
+.caixa-feedback {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 4rem 0;
+    gap: 32px;
+
+    width: 1198px;
+    height: 17.188rem;
+
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    
+}
+
+.feedback-conteudo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+
+    width: 1088px;
+    height: 124px;
+
+    
+}
+
+.feedback-subtitulo {
+    width: 1088px;
+    height: 20px;
+
+    /* Text sm/Semibold */
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    text-align: center;
+
+    color: var(--main-color);
+}
+
+.feedback-frase {
+    width: 1088px;
+    height: 88px;
+
+    /* Display md/Medium */
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    /* or 122% */
+
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #101828;
+}
+
+.atribuicao {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    width: 1088px;
+    height: 120px;
+}
+
+.atribuicao-nome {
+    width: 1088px;
+    height: 24px;
+
+    /* Text md/Medium */
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+
+    text-align: center;
+
+    /* Gray/900 */
+
+    color: #101828;
+}
+
+.atribuicao-funcao {
+    width: 1088px;
+    height: 20px;
+
+    /* Text sm/Normal */
+
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    text-align: center;
+
+    /* Gray/500 */
+
+    color: var(--text-color);
+}
+
