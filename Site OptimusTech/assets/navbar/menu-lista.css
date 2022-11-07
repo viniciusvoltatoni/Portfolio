@@ -10,3 +10,8 @@ section {
     margin: auto;
 }
 
+.caixa-menu__lista {
+    display: flex;
+    margin-right: 200px;
+}
+
